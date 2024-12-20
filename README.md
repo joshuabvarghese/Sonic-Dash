@@ -1,7 +1,5 @@
 # Sonic Dash: A 2D Platformer Adventure
 
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-
 **Keys:**
 - **Jump:** Space bar
 
@@ -18,9 +16,15 @@ Achieve the highest score by dodging enemies.
 3. Run: `python main.py`
 
 **Screenshots:**
-[Login Screen](images/login_screen.JPG)
-[Start Screen](images/start_screen.JPG)
-[Gameplay](images/game_play.JPG)
+
+*Login Screen:*
+![Login Screen](images/login_screen.JPG)
+
+*Start Screen:*
+![Start Screen](images/start_screen.JPG)
+
+*Gameplay:*
+![Gameplay](images/game_play.JPG)
 
 **Features:**
 - Smooth animations & character controls
@@ -37,5 +41,3 @@ A personal project to explore game development.
 
 **License:**
 [MIT License](LICENSE)
-
-**Fork, modify, and share feedback!**
