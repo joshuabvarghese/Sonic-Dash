@@ -37,8 +37,5 @@ Achieve the highest score by dodging enemies.
 - Python
 - Pygame
 
-**Credits:**
-A personal project to explore game development.
-
 **License:**
 [MIT License](LICENSE)
