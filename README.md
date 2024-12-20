@@ -24,7 +24,8 @@ Achieve the highest score by dodging enemies.
 ![Start Screen](images/start_screen.JPG)
 
 *Gameplay:*
-![Gameplay](images/game_play.JPG)
+
+![Gameplay](https://github.com/joshuabvarghese/Sonic-Dash/blob/main/gameplay.gif)
 
 **Features:**
 - Smooth animations & character controls
